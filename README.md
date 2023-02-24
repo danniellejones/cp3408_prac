@@ -1,2 +1,8 @@
 # cp3408_prac01
-CP3408 Game Engines and Simulation - Practical 01
+CP3408 Game Engines and Simulation - Practicals
+
+Practical 01:
+- MicrogrameFPS
+- Essentials 3D Project
+
+
