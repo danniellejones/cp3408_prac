@@ -2,7 +2,7 @@
 CP3408 Game Engines and Simulation - Practicals
 
 Practical 01:
-- MicrogrameFPS
+- MicrogameFPS
 - Essentials 3D Project
 
 
